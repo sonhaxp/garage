@@ -1,0 +1,59 @@
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\bin\Debug\Garage Management System.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_home.resources
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_login.resources
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.exe
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.pdb
+c:\users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_analytics.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_employee.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_cars.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_stock.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_billing.resources
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\bin\Debug\GMS.mdf
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\bin\Debug\GMS_log.ldf
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe.config
+C:\Users\hp\documents\visual studio 2010\Projects\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Gara\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Gara\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\Gara\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.exe
+C:\Users\Admin\Downloads\Gara\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.pdb
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\bin\Debug\GMS.mdf
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\bin\Debug\GMS_log.ldf
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe.config
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.pdb
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.AssemblyReference.cache
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_home.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_login.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.Properties.Resources.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_analytics.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_billing.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_cars.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_employee.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_stock.resources
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.GenerateResource.cache
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.CoreCompileInputs.cache
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.exe
+C:\Users\Truong Son\Downloads\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.pdb
+C:\Gara-main\Garage Management System\Garage Management System\bin\Debug\GMS.mdf
+C:\Gara-main\Garage Management System\Garage Management System\bin\Debug\GMS_log.ldf
+C:\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe.config
+C:\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.exe
+C:\Gara-main\Garage Management System\Garage Management System\bin\Debug\Garage Management System.pdb
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.AssemblyReference.cache
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.SuggestedBindingRedirects.cache
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_home.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.frm_login.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.Properties.Resources.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_analytics.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_billing.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_cars.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_employee.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage_Management_System.uc_stock.resources
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.GenerateResource.cache
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.csproj.CoreCompileInputs.cache
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.exe
+C:\Gara-main\Garage Management System\Garage Management System\obj\x86\Debug\Garage Management System.pdb
